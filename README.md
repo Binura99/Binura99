@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binura99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👨‍💻 All of my projects are available at [https://binura.netlify.app/](https://binura.netlify.app/)
+- 👨‍💻 My Portfolio [https://binura.netlify.app/](https://binura.netlify.app/)
 
 - 📫 How to reach me **binurayasith12@gmail.com**
 
